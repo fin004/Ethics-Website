@@ -31,7 +31,7 @@ li{
     background-color: #100C0d;
     border-radius: 25px;
     width: auto;
-    height: 400PX ;
+    max-height: max-content;
     position: relative;
 }
 .MainText2{
