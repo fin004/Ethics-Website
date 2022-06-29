@@ -64,4 +64,5 @@ a:link {
   
 .Text1 img{
     border-radius: 25px;
+    width: fit-content;
 }
