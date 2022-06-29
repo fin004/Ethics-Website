@@ -54,7 +54,7 @@ a:link {
     text-decoration  : underline;
     }
   a:active {
-    color            : yellow;
+    color            : rgb(255, 255, 255);
     background-color : transparent;
     text-decoration  : underline;
     }
@@ -62,3 +62,6 @@ a:link {
     padding: 5px 5px 5px 5px;
 }
   
+.Text1 img{
+    border-radius: 25px;
+}
