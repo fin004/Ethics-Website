@@ -53,7 +53,7 @@ a:link {
     text-decoration  : underline;
     }
   a:active {
-    color            : yellow;
+    color            : rgb(254, 254, 254);
     background-color : transparent;
     text-decoration  : underline;
     }
