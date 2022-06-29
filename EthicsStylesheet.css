@@ -3,7 +3,6 @@ html{
     background: #013328; ;
     color: #E3DCD2;
 }
-
 .MainTitle{
     text-align: center;
     background-color:#100C0d ;
@@ -32,6 +31,7 @@ li{
     width: auto;
     text-align: center;
     height: auto;
+    color: #E3DCD2;
 }
 .MainText2{
     font-size: larger;
