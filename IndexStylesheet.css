@@ -25,10 +25,11 @@ li{
     position: relative;
     text-align: center;
 }
-.MainText{
+.Text1{
     font-size: larger;
     background-color: #100C0d;
-    border-radius: 20px;
+    border-radius: 25px;
+    
     width: auto;
     text-align: center;
     height: auto;
@@ -57,5 +58,7 @@ a:link {
     background-color : transparent;
     text-decoration  : underline;
     }
-    
-     
+.Text1 p{
+    padding: 5px 5px 5px 5px;
+}
+  
