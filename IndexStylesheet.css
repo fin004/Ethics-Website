@@ -11,8 +11,8 @@ html{
     margin-top: -10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    height: 50px;
-    max-width: 100%;
+    width: 50%;
+    margin-left: 25%;
     padding-top: 2%;
     padding-bottom: 2%;
 }
@@ -31,10 +31,10 @@ li{
     font-size: larger;
     background-color: #100C0d;
     border-radius: 25px;
+    width: 75%;
+    margin-left: 12.5%;
     
-    width: auto;
-    text-align: center;
-    height: auto;
+    
 }
 .MainText2{
     font-size: larger;
@@ -62,9 +62,12 @@ a:link {
     }
 .Text1 p{
     padding: 5px 5px 5px 5px;
+    text-align: center;
+
+    
 }
-  
-.Text1 img{
-    border-radius: 25px;
-    width: fit-content;
+img{
+    background-color: #100C0d;
+    padding: 5px 5px 5px 5px;
+    
 }
