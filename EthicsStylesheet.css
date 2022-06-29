@@ -3,6 +3,15 @@ html{
     background: #013328; ;
     color: #E3DCD2;
 }
+.MainBody{
+    font-size: larger;
+    background-color: #100C0d;
+    border-radius: 20px;
+    width: auto;
+    text-align: center;
+    height: auto;
+    color: #E3DCD2;
+}
 .MainTitle{
     text-align: center;
     background-color:#100C0d ;
@@ -23,15 +32,6 @@ li{
     font-size: larger;
     position: relative;
     text-align: center;
-}
-.MainBody{
-    font-size: larger;
-    background-color: #100C0d;
-    border-radius: 20px;
-    width: auto;
-    text-align: center;
-    height: auto;
-    color: #E3DCD2;
 }
 .MainText2{
     font-size: larger;
