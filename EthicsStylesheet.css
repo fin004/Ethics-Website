@@ -57,3 +57,6 @@ a:link {
     background-color : transparent;
     text-decoration  : underline;
     }
+.str {
+    font-weight: bold
+}
